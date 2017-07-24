@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KegUtils</string>
+
+    <!-- BEGIN: default validator's message-->
+    <string name="validator_empty_field">Must not be empty.</string>
+    <string name="validator_character_length_bellow_minimum">Must be above minimum length.</string>
+    <string name="validator_character_length_over_maximum">Must be within maximum length.</string>
+    <string name="validator_character_length_invalid">Must be within minimum and maximum length.</string>
+    <string name="validator_must_contain_digit">Must contain digits.</string>
+    <string name="validator_must_contain_lowercase_letter">Must contain lowecase letter.</string>
+    <string name="validator_must_contain_capital_letter">Must contain capital letter.</string>
+    <string name="validator_must_contain_letter">Must contain letter.</string>
+    <string name="validator_must_contain_special_character">Must contain special character.</string>
+    <string name="endlessrecycler_unexpected_error">Unexpected error: Please try again</string>
+    <!-- END: default validator's message-->
+
+    <!-- BEGIN: Endless recycler -->
+    <string name="endless_recyclcer_empty">That is nothing here.</string>
+    <string name="endless_recyclcer_load_time_out">Connection error: Please try again.</string>
+    <string name="endless_recyclcer_load_finished">No more items to show</string>
+    <string name="endless_recyclcer_unexpedted_error">Unexpected error: Tap to try again.</string>
+    <!-- END: Endless recycler -->
+</resources>

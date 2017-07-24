@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ValidationEditText">
+        <attr name="validateOnFocusExit" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="ImageLoaderView">
+        <attr name="loadingImage" format="reference"/>
+        <attr name="rounded" format="boolean"/>
+        <attr name="url" format="string"/>
+    </declare-styleable>
+</resources>
